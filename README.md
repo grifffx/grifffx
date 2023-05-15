@@ -1,8 +1,15 @@
 Stephen Griffiths
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Cyber Security Bootcamp run by HyperionDev. 
+- Python
+- Fortran
+- Cobol
+- SQL
+- Relational Databases
+- Excellent communication and organisational skills
+- Held both technical and senior sales positions in many of the largest software companies. Including IBM, Oracle, Microsoft.
+
+
+
 
 <!---
 grifffx/grifffx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
